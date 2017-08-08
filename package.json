@@ -1,15 +1,13 @@
 {
   "name": "env-pino",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Config pino via environment variables.",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "repository": "https://github.com/zhaoyao91/env-pino.git",
   "author": "zhaoyao91 <zhaoyao91@163.com>",
   "license": "MIT",
   "dependencies": {
-    "lodash.camelcase": "^4.3.0",
+    "lodash.camelcase": "^4.x.x",
     "pino": "^4.x.x"
   }
 }
